@@ -1,0 +1,7 @@
+*.sublime-color-scheme linguist-language=JSONC
+.gitattributes export-ignore
+.gitignore export-ignore
+JavaScript.png export-ignore
+Ruby.png export-ignore
+*.png export-ignore
+

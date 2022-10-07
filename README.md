@@ -5,10 +5,10 @@ CoderPad-like color scheme for Sublime Text.
 Mainly geared toward development with JavaScript and Ruby, but can be also used with other programming languages.
 
 #### JavaScript
-![JavaScript](https://github.com/marwan37/CoderPad-Color-Theme/raw/main/JavaScript.png)
+![JavaScript](https://github.com/marwan37/CoderPad-Color-Scheme/raw/main/JavaScript.png)
 
 #### Ruby
-![Ruby](https://github.com/marwan37/CoderPad-Color-Theme/raw/main/Ruby.png)
+![Ruby](https://github.com/marwan37/CoderPad-Color-Scheme/raw/main/Ruby.png)
 
 ---
 
@@ -20,7 +20,7 @@ Mainly geared toward development with JavaScript and Ruby, but can be also used 
 3. Type `CoderPad-Color-Scheme` and hit `Enter`.
 
 #### Manually
-1. Download the `CoderPad.tmTheme` file
+1. Download the `CoderPad.sublime-color-scheme` file
 2. Go to Sublime Text → Preferences → Browse Packages.
 3. Move file inside your Packages folder.
 ---
